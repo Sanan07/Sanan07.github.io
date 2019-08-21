@@ -26,8 +26,8 @@ function send() {
         return;
     }
     
-    var str = "Имя : " + name + "<br>" + "Фамилия" + surName + "<br>" + "Телефон : " + phone +  "<br>" + "Дополнительная информация : " +  dop;;
-    
+    var str = "Имя : " + name + "<br>" + "Фамилия : " + surName + "<br>" + "Телефон : " + phone +  "<br>" + "Дополнительная информация : " +  dop;;
+    console.log(str);
     Email.send({
         SecureToken: "76825919-ab51-45b3-b18d-5a7e72e78aad",
         To: 'grijaproshai@gmail.com',

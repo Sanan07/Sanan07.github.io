@@ -8226,7 +8226,8 @@ h1, h2, h3, h4, h5,
             color: #fff; }
 
 .owl-carousel {
-  position: relative; }
+  position: relative;
+}
   .owl-carousel .owl-item {
     opacity: .4; }
     .owl-carousel .owl-item.active {
@@ -9187,6 +9188,7 @@ textarea.form-control {
   .testimony-section .owl-carousel .owl-stage-outer {
     padding-top: 4em;
     padding-bottom: 2em;
+    padding-left: 6em;
     position: relative; }
   .testimony-section .owl-nav {
     position: absolute;
