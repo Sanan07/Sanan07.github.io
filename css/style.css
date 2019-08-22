@@ -8954,11 +8954,12 @@ textarea.form-control {
   padding-bottom: 0; }
 
 .ftco-bg-dark {
-  background: #3c312e; }
+  background: #673AB7; }
 
 .ftco-footer {
   font-size: 14px;
-  background: #141313;
+  background: #3F51B5;
+background: linear-gradient(45deg, #26A69A 0%, #3F51B5 100%);
 }
   .ftco-footer .ftco-footer-widget {
     width: 100%;
