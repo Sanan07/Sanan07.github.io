@@ -9674,6 +9674,14 @@ background: linear-gradient(45deg, #26A69A 0%, #3F51B5 100%);
       color: #000000;
       font-style: italic; }
 
+@media (max-width: 500px) {
+    iframe {
+      height: 100%;
+    } 
+
+}
+
+
 #ftco-loader {
   position: fixed;
   width: 96px;
