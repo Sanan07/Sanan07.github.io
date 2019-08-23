@@ -1,6 +1,6 @@
 function send() {
     var name = document.getElementById("name").value;
-    var surName = document.getElementById("name").value;
+    var surName = document.getElementById("surName").value;
     var phone = document.getElementById("phone").value;
     var dop = document.getElementById("dop").value;
     
